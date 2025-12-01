@@ -1,9 +1,9 @@
 
 let animalName = 'string';
 
-let height = 'numeric';
+let height = 3.14;
 
-let isIndoorPet = 'boolean';
+let boolean = 'isIndoorPet';
 
 
 
