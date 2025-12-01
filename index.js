@@ -1,12 +1,12 @@
 
-let animalName = string;
+let animalName = 'string';
 
-let height = numeric;
+let height = 'numeric';
 
-let isIindoorPet = boolean;
+let isIndoorPet = 'boolean';
 
 
 
-document.getElementById("string").innerHTML = typeof animalName;
-document.getElementById("numeric").innerHTML = typeof height;
-document.getElementById("boolean").innerHTML = isIndoorPet;
+document.getElementById("animalName").innerHTML = typeof string;
+document.getElementById("height").innerHTML = typeof numeric;
+document.getElementById("isIndoorPet").innerHTML = typeof boolean;
