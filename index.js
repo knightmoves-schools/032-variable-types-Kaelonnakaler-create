@@ -7,6 +7,6 @@ let boolean = 'isIndoorPet';
 
 
 
-document.getElementById("animalName").innerHTML = typeof string;
+document.getElementById("string").innerHTML = typeof string;
 document.getElementById("height").innerHTML = typeof numeric;
 document.getElementById("boolean").innerHTML = typeof isIndoorPet;
