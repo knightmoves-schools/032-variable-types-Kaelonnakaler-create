@@ -3,7 +3,7 @@ let animalName = 'string';
 
 let height = 3.14;
 
-let boolean = 'isIndoorPet';
+let isIndoorPet = true;
 
 
 
